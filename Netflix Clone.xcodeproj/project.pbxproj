@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		471B707B27C193530000A86D /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 471B707A27C193530000A86D /* HeroHeaderUIView.swift */; };
 		47503A4027C110D50086A689 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47503A3F27C110D50086A689 /* AppDelegate.swift */; };
 		47503A4227C110D50086A689 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47503A4127C110D50086A689 /* SceneDelegate.swift */; };
 		47503A4427C110D50086A689 /* MainTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47503A4327C110D50086A689 /* MainTabBarViewController.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		471B707A27C193530000A86D /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
 		47503A3C27C110D50086A689 /* Netflix Clone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Netflix Clone.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		47503A3F27C110D50086A689 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		47503A4127C110D50086A689 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				47503A6127C119FE0086A689 /* CollectionViewTableViewCell.swift */,
+				471B707A27C193530000A86D /* HeroHeaderUIView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 				47503A5927C113950086A689 /* SearchViewController.swift in Sources */,
 				47503A4427C110D50086A689 /* MainTabBarViewController.swift in Sources */,
 				47503A6227C119FE0086A689 /* CollectionViewTableViewCell.swift in Sources */,
+				471B707B27C193530000A86D /* HeroHeaderUIView.swift in Sources */,
 				47503A5B27C113B40086A689 /* DownloadsViewController.swift in Sources */,
 				47503A4027C110D50086A689 /* AppDelegate.swift in Sources */,
 				47503A4227C110D50086A689 /* SceneDelegate.swift in Sources */,
